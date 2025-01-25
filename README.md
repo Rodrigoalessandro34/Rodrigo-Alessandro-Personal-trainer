@@ -1,2 +1,7 @@
-# Rodrigo-Alessandro-Personal-trainer
-consultoria online personalizada, para fazer você atingir os melhores resultados
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/seu-usuario/rodrigo-alessandro-fitness.git
+git push -u origin main
